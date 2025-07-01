@@ -6,3 +6,7 @@ tags: [new]
 comments: true
 author: Chao
 ---
+
+
+
+![这是图片](/images/sapling.jpg "tree")
