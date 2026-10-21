@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![这是图片](/images/sapling.jpg "tree")
+
 
 ## 关于我
 
