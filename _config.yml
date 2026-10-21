@@ -5,11 +5,11 @@ avatar: https://rp722.github.io/images/sapling.jpg
 favicon: https://rp722.github.io/images/favicon.ico
 
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 分类
+  - name: Tag
     url: /tags
 
 paginate: 8
